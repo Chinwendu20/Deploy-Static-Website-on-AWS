@@ -53,3 +53,5 @@ http://udacity-website-bucket.s3-website-us-east-1.amazonaws.com/
 - Access the bucket object via its S3 object URL, such as:
 
 https://udacity-website-bucket.s3.amazonaws.com/index.html
+
+N.B. This is one of the projects required for the completion of my udacity cloud devops nanodegree

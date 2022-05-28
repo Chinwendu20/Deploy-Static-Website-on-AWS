@@ -10,7 +10,7 @@ In this project, I deployed a static website to AWS by performing the following 
 - I created a public S3 bucket and upload the website files to your bucket.
 - I configured the bucket for website hosting and secure it using IAM policies.
 - I sped up content delivery using AWS’s content distribution network service, CloudFront.
-- I accessed your website in a browser using the unique CloudFront endpoint.
+- I accessed my website in a browser using the unique CloudFront endpoint
 
 ## Steps
 
